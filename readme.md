@@ -1,6 +1,6 @@
 # FIFA REST API
 
-This project was created in order to show programming skills of JavaScript developers from Jelvix.
+This project was created in order to show programming skills of JavaScript developers.
 
 ## TASK:
 Using express.js (https://expressjs.com) and postgreSQL (https://www.postgresql.org)
